@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSMA"
+  id="myeclipse.1511916424665"
+  context-root="/SSMA"
+  j2ee-spec="5.0"
+  archive="SSMA.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
